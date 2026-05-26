@@ -17,9 +17,9 @@ ns.Tracks = {
     NightMountain03            = 53582,
     NightMountain04            = 53583,
 
-    -- Mountains > Gnomeragon ------------------
-    gnomeragon01-zone          = 53189,
-    gnomeragon02-zone          = 53190,
+    -- Mountains > Gnomeregan ------------------
+    "gnomeragon01-zone"          = 53189,
+    "gnomeragon02-zone"          = 53190,
 
     -- Mountains > Tavern -----------------------------------
     RA_DwarfTavern1A           = 53739,
@@ -29,12 +29,12 @@ ns.Tracks = {
     RA_DwarfTavern3            = 53743,
 
     -- Mountains > Ironforge --------------------
-    IronForge Intro            = 53469,
-    IronForge Walking 01       = 53470,
-    IronForge Walking 02       = 53471,
-    Ironforge Walking 03 (Glenn) = 53472,
-    Ironforge Walking 04       = 53195,
-    tinkertownintro_moment     = 53196
+    "IronForge Intro"            = 53469,
+    "IronForge Walking 01"       = 53470,
+    "IronForge Walking 02"       = 53471,
+    "Ironforge Walking 03 (Glenn)" = 53472,
+    "Ironforge Walking 04"       = 53195,
+    tinkertownintro_moment       = 53196
 
 }
 
