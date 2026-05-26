@@ -3,7 +3,7 @@ local T = ns.Tracks
 local api = _G.EchoesOfAzeroth
 local Dsl = api and api.PluginDsl
 if not Dsl then
-    error("EchoesOfAzeroth core must load before EchoesOfAzeroth_QuelThalas")
+    error("EchoesOfAzeroth core must load before EchoesOfAzeroth_Mountains")
 end
 
 local Pack = Dsl.pack
@@ -19,9 +19,6 @@ local MixedPack = Dsl.mixedPack
 --   night  = { FileDataID, ... }   (21:00–05:59)
 --   any    = { FileDataID, ... }   (merged into active pool)
 --   intro  = FileDataID            (optional, plays once)
---
--- Three packs per main zone: (TBC), (Midnight), (TBC + Midnight).
--- Subzone utility packs are listed after.
 -- ============================================================
 
 local MOUNTAIN = Pack {
