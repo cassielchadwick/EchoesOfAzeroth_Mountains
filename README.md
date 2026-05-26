@@ -2,7 +2,7 @@
 
 `EchoesOfAzeroth_QuelThalas` is a content plugin for `EchoesOfAzeroth`.
 
-It restores a strong original Burning Crusade identity to Quel'Thalas while also shipping Midnight-based variants and mixed packs that can be assigned manually through the core addon UI.
+Adds support for Vanilla Dun Morogh and Loch Modan zone music.
 
 ## Requires
 
@@ -14,32 +14,9 @@ This plugin will not load correctly on its own.
 
 The plugin includes packs for:
 
-- Silvermoon
-- Eversong
-- Ghostlands
-- Scorched Lands
-- Deatholme
-- Isle of Quel'Danas
+- "Mountains" Walk Music, Day and Night
 
-It also includes additional themed packs such as:
-
-- Zul'Aman
-- Silverglade Refuge
-- Suramar / Nightborne
-- Telogrus / Void Elf
-- Lament of the Highborne
-
-Most core Quel'Thalas areas provide TBC, Midnight, and mixed variants.
-
-## Covered content
-
-The plugin maps music for the Quel'Thalas experience, including:
-
-- Silvermoon City
-- Eversong Woods
-- Ghostlands
-- themed subzones and hostile sub-areas
-- Isle of Quel'Danas
+It also includes a default list of zone assignments for Dun Morogh and Loch Modan.
 
 ## How to use it
 
