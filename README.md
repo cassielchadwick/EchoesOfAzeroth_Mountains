@@ -1,4 +1,4 @@
-# Echoes of Azeroth: Quel'Thalas
+# Echoes of Azeroth: Vanilla Mountains
 
 `EchoesOfAzeroth_QuelThalas` is a content plugin for `EchoesOfAzeroth`.
 
