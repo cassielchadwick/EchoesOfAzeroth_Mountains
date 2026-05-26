@@ -1,6 +1,6 @@
 # Echoes of Azeroth: Vanilla Mountains
 
-`EchoesOfAzeroth_QuelThalas` is a content plugin for `EchoesOfAzeroth`.
+`EchoesOfAzeroth_Mountains` is a content plugin for `EchoesOfAzeroth`.
 
 Adds support for Vanilla Dun Morogh and Loch Modan zone music.
 
