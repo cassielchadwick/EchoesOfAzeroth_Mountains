@@ -39,8 +39,8 @@ local MOUNTAIN = Pack {
 local GNOMEREGAN = Pack {
     label = "Gnomeregan (Vanilla)",
     any = {
-        T.gnomeragon01-zone,
-        T.gnomeragon02-zone,
+        T["gnomeragon01-zone"],
+        T["gnomeragon02-zone"],
     },
 }
 
@@ -58,13 +58,13 @@ local DWARFTAVERN = Pack {
 local IRONFORGE = Pack {
     label = "Ironforge (Vanilla)",
     intro = {
-        T.IronForge Intro,
+        T["IronForge Intro"],
     },
     any = {
-        T.IronForge Walking 01,
-        T.IronForge Walking 02,
-        T.Ironforge Walking 03 (Glenn),
-        T.Ironforge Walking 04,
+        T["IronForge Walking 01"],
+        T["IronForge Walking 02"],
+        T["Ironforge Walking 03 (Glenn)"],
+        T["Ironforge Walking 04"],
     },
 }
 
@@ -74,8 +74,8 @@ local TINKERTOWN = Pack {
         T.tinkertownintro_moment,
     }, 
     any = {
-        T.gnomeragon01-zone,
-        T.gnomeragon02-zone,
+        T["gnomeragon01-zone"],
+        T["gnomeragon02-zone"],
     },
 }
 
