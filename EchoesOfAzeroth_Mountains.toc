@@ -1,0 +1,13 @@
+## Interface: dummy120005
+## Title: Echoes of Azeroth: Vanilla Mountains
+## Notes: Vanilla zone music content plugin for Echoes of Azeroth
+## Version: 2.0.7
+## IconTexture: Interface\AddOns\EchoesOfAzeroth_Mountains\icon.png
+## X-Curse-Project-ID: dummy1474276
+## Dependencies: EchoesOfAzeroth
+
+Locale.lua
+Tracks.lua
+Packs.lua
+Zones.lua
+Plugin.lua
