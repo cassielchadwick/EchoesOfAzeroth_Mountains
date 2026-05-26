@@ -3,13 +3,13 @@ local _, ns = ...
 local api = _G.EchoesOfAzeroth
 local Dsl = api and api.PluginDsl
 if not Dsl then
-    error("EchoesOfAzeroth core must load before EchoesOfAzeroth_QuelThalas")
+    error("EchoesOfAzeroth core must load before EchoesOfAzeroth_Mountains")
 end
 
 Dsl.registerPlugin({
-    id = "quelthalas",
-    title = "Quel'Thalas",
-    description = "Original and alternate music for Quel'Thalas zones.",
+    id = "mountains",
+    title = "Mountains",
+    description = "Original music for vanilla mountain zones.",
     order = 10,
     category = "Eastern Kingdoms",
     tracks = ns.Tracks,
